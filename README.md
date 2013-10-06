@@ -12,11 +12,11 @@ I created a solution to solve this problem and you can learn how to use there co
 
 1 - You need to give execute permission to the file
 
-`sudo chmod 777 touchfix`
+`sudo chmod 777 touchfix.sh`
 
 2 - You need to move the file to be able to use it globally.
 
-`sudo mv touchfix /usr/bin/touchfix`
+`sudo mv touchfix.sh /usr/bin/touchfix`
 
 3 - Now when your touchpad stops working you just need to open the terminal and type the command below.
 
